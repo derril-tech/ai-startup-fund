@@ -1,0 +1,40 @@
+metric_name,value,unit,period
+GMV,50000000,USD,2024-01
+GMV,30000000,USD,2023-01
+GMV,15000000,USD,2022-01
+Revenue,2500000,USD,2024-01
+Revenue,1500000,USD,2023-01
+Revenue,750000,USD,2022-01
+Merchant Count,5000,merchants,2024-01
+Merchant Count,3000,merchants,2023-01
+Merchant Count,1500,merchants,2022-01
+Take Rate,5,percent,2024-01
+Take Rate,5,percent,2023-01
+Take Rate,5,percent,2022-01
+CAC,200,USD,2024-01
+CAC,180,USD,2023-01
+CAC,150,USD,2022-01
+LTV,2000,USD,2024-01
+LTV,1800,USD,2023-01
+LTV,1600,USD,2022-01
+Burn Rate,150000,USD,2024-01
+Burn Rate,120000,USD,2023-01
+Burn Rate,100000,USD,2022-01
+Average Transaction Value,10000,USD,2024-01
+Average Transaction Value,10000,USD,2023-01
+Average Transaction Value,10000,USD,2022-01
+Transaction Volume,5000,transactions,2024-01
+Transaction Volume,3000,transactions,2023-01
+Transaction Volume,1500,transactions,2022-01
+Gross Margin,60,percent,2024-01
+Gross Margin,58,percent,2023-01
+Gross Margin,55,percent,2022-01
+Payback Period,10,months,2024-01
+Payback Period,9,months,2023-01
+Payback Period,8,months,2022-01
+Magic Number,1.2,ratio,2024-01
+Magic Number,1.3,ratio,2023-01
+Magic Number,1.5,ratio,2022-01
+Rule of 40,65,percent,2024-01
+Rule of 40,63,percent,2023-01
+Rule of 40,60,percent,2022-01

@@ -1,0 +1,182 @@
+{
+  "sector": "HealthTech",
+  "risk_categories": {
+    "regulatory": [
+      {
+        "name": "FDA approval requirements",
+        "description": "Medical device and software approval process",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Engage regulatory consultants",
+          "Plan clinical trials",
+          "Early FDA engagement"
+        ]
+      },
+      {
+        "name": "HIPAA compliance",
+        "description": "Patient data protection requirements",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "HIPAA compliance program",
+          "Data encryption",
+          "Access controls"
+        ]
+      },
+      {
+        "name": "Medical device regulations",
+        "description": "Compliance with medical device standards",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Regulatory expertise",
+          "Quality management system",
+          "Documentation standards"
+        ]
+      }
+    ],
+    "technical": [
+      {
+        "name": "AI model accuracy and bias",
+        "description": "Algorithm accuracy and fairness issues",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Rigorous testing protocols",
+          "Diverse training data",
+          "Regular model validation"
+        ]
+      },
+      {
+        "name": "Clinical validation",
+        "description": "Proving clinical effectiveness",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Clinical trial design",
+          "Peer-reviewed studies",
+          "Real-world evidence"
+        ]
+      },
+      {
+        "name": "Data quality and availability",
+        "description": "Access to high-quality medical data",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Data partnerships",
+          "Quality assurance",
+          "Data governance"
+        ]
+      }
+    ],
+    "market": [
+      {
+        "name": "Healthcare adoption barriers",
+        "description": "Slow adoption by healthcare providers",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Value proposition focus",
+          "Pilot programs",
+          "Clinical champions"
+        ]
+      },
+      {
+        "name": "Reimbursement challenges",
+        "description": "Insurance coverage and payment issues",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Reimbursement strategy",
+          "Insurance partnerships",
+          "Cost-effectiveness studies"
+        ]
+      },
+      {
+        "name": "Competition from established players",
+        "description": "Large healthcare companies entering market",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Innovation focus",
+          "Specialized solutions",
+          "Strategic partnerships"
+        ]
+      }
+    ],
+    "clinical": [
+      {
+        "name": "Patient safety concerns",
+        "description": "Potential harm to patients",
+        "typical_severity": "critical",
+        "typical_likelihood": "low",
+        "mitigation_strategies": [
+          "Safety protocols",
+          "Clinical oversight",
+          "Error monitoring"
+        ]
+      },
+      {
+        "name": "Liability and malpractice",
+        "description": "Legal liability for medical decisions",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Professional liability insurance",
+          "Clear disclaimers",
+          "Legal counsel"
+        ]
+      }
+    ],
+    "operational": [
+      {
+        "name": "Clinical workflow integration",
+        "description": "Integration with existing healthcare systems",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Interoperability standards",
+          "User training",
+          "Change management"
+        ]
+      },
+      {
+        "name": "Physician resistance",
+        "description": "Resistance to new technology adoption",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Physician input",
+          "Training programs",
+          "Efficiency demonstration"
+        ]
+      }
+    ],
+    "financial": [
+      {
+        "name": "High development costs",
+        "description": "Expensive clinical trials and development",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Efficient trial design",
+          "Strategic partnerships",
+          "Grant funding"
+        ]
+      },
+      {
+        "name": "Long sales cycles",
+        "description": "Extended time to close deals",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Relationship building",
+          "Pilot programs",
+          "Reference customers"
+        ]
+      }
+    ]
+  }
+}

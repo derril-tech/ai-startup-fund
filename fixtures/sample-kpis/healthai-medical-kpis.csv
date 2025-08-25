@@ -1,0 +1,43 @@
+metric_name,value,unit,period
+Revenue,8000000,USD,2024-01
+Revenue,5000000,USD,2023-01
+Revenue,2000000,USD,2022-01
+Hospital Partners,25,hospitals,2024-01
+Hospital Partners,15,hospitals,2023-01
+Hospital Partners,8,hospitals,2022-01
+Diagnoses Per Month,50000,diagnoses,2024-01
+Diagnoses Per Month,30000,diagnoses,2023-01
+Diagnoses Per Month,15000,diagnoses,2022-01
+Accuracy Rate,95,percent,2024-01
+Accuracy Rate,93,percent,2023-01
+Accuracy Rate,90,percent,2022-01
+Gross Margin,70,percent,2024-01
+Gross Margin,68,percent,2023-01
+Gross Margin,65,percent,2022-01
+Burn Rate,500000,USD,2024-01
+Burn Rate,400000,USD,2023-01
+Burn Rate,300000,USD,2022-01
+CAC,5000,USD,2024-01
+CAC,4500,USD,2023-01
+CAC,4000,USD,2022-01
+LTV,50000,USD,2024-01
+LTV,45000,USD,2023-01
+LTV,40000,USD,2022-01
+Average Revenue Per Hospital,320000,USD,2024-01
+Average Revenue Per Hospital,333333,USD,2023-01
+Average Revenue Per Hospital,250000,USD,2022-01
+Diagnoses Per Hospital,2000,diagnoses,2024-01
+Diagnoses Per Hospital,2000,diagnoses,2023-01
+Diagnoses Per Hospital,1875,diagnoses,2022-01
+Revenue Per Diagnosis,160,USD,2024-01
+Revenue Per Diagnosis,167,USD,2023-01
+Revenue Per Diagnosis,133,USD,2022-01
+Payback Period,18,months,2024-01
+Payback Period,16,months,2023-01
+Payback Period,15,months,2022-01
+Magic Number,0.6,ratio,2024-01
+Magic Number,0.7,ratio,2023-01
+Magic Number,0.8,ratio,2022-01
+Rule of 40,65,percent,2024-01
+Rule of 40,61,percent,2023-01
+Rule of 40,55,percent,2022-01

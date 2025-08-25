@@ -1,0 +1,34 @@
+metric_name,value,unit,period
+ARR,2500000,USD,2024-01
+ARR,1800000,USD,2023-01
+ARR,1200000,USD,2022-01
+Customer Count,150,customers,2024-01
+Customer Count,100,customers,2023-01
+Customer Count,60,customers,2022-01
+Gross Margin,85,percent,2024-01
+Gross Margin,82,percent,2023-01
+Gross Margin,78,percent,2022-01
+CAC,5000,USD,2024-01
+CAC,4500,USD,2023-01
+CAC,4000,USD,2022-01
+LTV,50000,USD,2024-01
+LTV,45000,USD,2023-01
+LTV,40000,USD,2022-01
+Churn Rate,5,percent,2024-01
+Churn Rate,6,percent,2023-01
+Churn Rate,8,percent,2022-01
+Burn Rate,200000,USD,2024-01
+Burn Rate,180000,USD,2023-01
+Burn Rate,150000,USD,2022-01
+ACV,16667,USD,2024-01
+ACV,18000,USD,2023-01
+ACV,20000,USD,2022-01
+Payback Period,12,months,2024-01
+Payback Period,10,months,2023-01
+Payback Period,8,months,2022-01
+Magic Number,0.8,ratio,2024-01
+Magic Number,0.9,ratio,2023-01
+Magic Number,1.1,ratio,2022-01
+Rule of 40,80,percent,2024-01
+Rule of 40,76,percent,2023-01
+Rule of 40,70,percent,2022-01

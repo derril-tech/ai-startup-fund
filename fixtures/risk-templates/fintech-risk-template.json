@@ -1,0 +1,147 @@
+{
+  "sector": "FinTech",
+  "risk_categories": {
+    "regulatory": [
+      {
+        "name": "Payment processing regulations",
+        "description": "Compliance with financial regulations and licensing",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Engage regulatory consultants",
+          "Legal compliance team",
+          "Regular regulatory updates"
+        ]
+      },
+      {
+        "name": "Anti-money laundering (AML)",
+        "description": "AML compliance and reporting requirements",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "AML monitoring systems",
+          "Customer due diligence",
+          "Regular audits"
+        ]
+      },
+      {
+        "name": "Data protection regulations",
+        "description": "Financial data protection requirements",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Encryption standards",
+          "Access controls",
+          "Regular security audits"
+        ]
+      }
+    ],
+    "market": [
+      {
+        "name": "Competition from banks",
+        "description": "Traditional banks entering digital space",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Superior user experience",
+          "Lower costs",
+          "Innovation focus"
+        ]
+      },
+      {
+        "name": "Economic downturn impact",
+        "description": "Reduced consumer spending and investment",
+        "typical_severity": "medium",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Diversify revenue streams",
+          "Focus on essential services",
+          "Cost optimization"
+        ]
+      }
+    ],
+    "technical": [
+      {
+        "name": "System security",
+        "description": "Cybersecurity threats and breaches",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Advanced security protocols",
+          "Regular penetration testing",
+          "Security monitoring"
+        ]
+      },
+      {
+        "name": "System reliability",
+        "description": "Downtime and service interruptions",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Redundant systems",
+          "24/7 monitoring",
+          "Disaster recovery plans"
+        ]
+      },
+      {
+        "name": "Scalability challenges",
+        "description": "Handling increased transaction volumes",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Cloud infrastructure",
+          "Load balancing",
+          "Performance testing"
+        ]
+      }
+    ],
+    "financial": [
+      {
+        "name": "Capital requirements",
+        "description": "Regulatory capital requirements",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Capital planning",
+          "Regulatory compliance",
+          "Investor relationships"
+        ]
+      },
+      {
+        "name": "Fraud and chargebacks",
+        "description": "Payment fraud and customer disputes",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Fraud detection systems",
+          "Customer verification",
+          "Dispute resolution processes"
+        ]
+      }
+    ],
+    "operational": [
+      {
+        "name": "Partner bank relationships",
+        "description": "Dependency on banking partners",
+        "typical_severity": "medium",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Multiple banking partners",
+          "Strong relationships",
+          "Service level agreements"
+        ]
+      },
+      {
+        "name": "Customer trust",
+        "description": "Building and maintaining customer confidence",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Transparency",
+          "Customer support",
+          "Security communication"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+SAFE (Simple Agreement for Future Equity)
+Term Sheet Template
+
+This is a placeholder for a DOCX file. In a real implementation, this would be a Microsoft Word document with proper formatting and placeholders for:
+
+1. Company Information
+   - Company Name: [COMPANY_NAME]
+   - Date: [DATE]
+   - Investor: [INVESTOR_NAME]
+
+2. Investment Terms
+   - Investment Amount: [INVESTMENT_AMOUNT]
+   - Valuation Cap: [VALUATION_CAP]
+   - Discount Rate: [DISCOUNT_RATE]%
+
+3. Conversion Terms
+   - Automatic conversion on qualified financing
+   - Conversion price calculation
+   - Anti-dilution provisions
+
+4. Key Provisions
+   - Pro rata rights
+   - Information rights
+   - Board observation rights
+   - Use of proceeds
+
+5. Closing Conditions
+   - Due diligence completion
+   - Legal documentation
+   - Board approval
+
+6. Timeline
+   - Due diligence period
+   - Closing date
+   - Funding timeline
+
+The actual DOCX file would include proper legal language, formatting, and placeholders that can be programmatically replaced with actual deal terms.

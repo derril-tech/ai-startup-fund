@@ -1,0 +1,136 @@
+{
+  "sector": "SaaS",
+  "risk_categories": {
+    "market": [
+      {
+        "name": "Competition from established players",
+        "description": "Large incumbents entering the market",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Focus on specific verticals",
+          "Superior user experience",
+          "Strong customer relationships"
+        ]
+      },
+      {
+        "name": "Market saturation",
+        "description": "Market becoming crowded with similar solutions",
+        "typical_severity": "medium",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Differentiation through features",
+          "Pricing strategy",
+          "Market expansion"
+        ]
+      },
+      {
+        "name": "Economic downturn impact",
+        "description": "Reduced IT spending during economic slowdowns",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Diversify customer base",
+          "Focus on cost-saving solutions",
+          "Long-term contracts"
+        ]
+      }
+    ],
+    "technical": [
+      {
+        "name": "Data security and compliance",
+        "description": "Breaches, GDPR, SOC 2 compliance",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Implement SOC 2 compliance",
+          "Regular security audits",
+          "Employee training"
+        ]
+      },
+      {
+        "name": "System scalability",
+        "description": "Performance issues with growth",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Cloud infrastructure",
+          "Load testing",
+          "Performance monitoring"
+        ]
+      },
+      {
+        "name": "API dependencies",
+        "description": "Reliance on third-party APIs",
+        "typical_severity": "medium",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Multiple API providers",
+          "Fallback mechanisms",
+          "Service level agreements"
+        ]
+      }
+    ],
+    "team": [
+      {
+        "name": "Key employee retention",
+        "description": "Loss of critical team members",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Equity vesting schedules",
+          "Competitive compensation",
+          "Career development"
+        ]
+      },
+      {
+        "name": "Hiring challenges",
+        "description": "Difficulty attracting top talent",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Strong company culture",
+          "Remote work options",
+          "Competitive benefits"
+        ]
+      }
+    ],
+    "financial": [
+      {
+        "name": "Cash burn rate",
+        "description": "High monthly cash consumption",
+        "typical_severity": "high",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Revenue optimization",
+          "Cost control",
+          "Funding runway management"
+        ]
+      },
+      {
+        "name": "Customer concentration",
+        "description": "Over-reliance on few large customers",
+        "typical_severity": "high",
+        "typical_likelihood": "medium",
+        "mitigation_strategies": [
+          "Customer diversification",
+          "Long-term contracts",
+          "Revenue expansion"
+        ]
+      }
+    ],
+    "regulatory": [
+      {
+        "name": "Data privacy regulations",
+        "description": "GDPR, CCPA compliance requirements",
+        "typical_severity": "medium",
+        "typical_likelihood": "high",
+        "mitigation_strategies": [
+          "Legal compliance team",
+          "Privacy by design",
+          "Regular audits"
+        ]
+      }
+    ]
+  }
+}
